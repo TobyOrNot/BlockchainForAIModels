@@ -63,9 +63,6 @@ contract ModelRegistry {
 }
 ```
 
-## 🌎 **Documentation**  
-📄 **Full Thesis (Italian):** [Link to PDF]  
-
 ## 🏆 **Authors**  
 - **Tobias Paparelli** - *Blockchain & Machine Learning Integration*  
 - tobias.paparelli@gmail.com  
