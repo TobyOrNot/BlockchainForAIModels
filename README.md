@@ -1,6 +1,8 @@
 # **Blockchain for the Management and Distribution of Machine Learning Models**
 
-## 📌 **Project Overview**  
+## 📌 **Project Overview**
+
+⚠️ **Note:** This project is intended for personal research and learning purposes only.  
 This project explores the integration of **blockchain technology** to decentralize the management and distribution of **machine learning models**, ensuring transparency, security, and accessibility. By leveraging **Ethereum smart contracts**, the platform enables users to interact with AI models while maintaining the integrity of model versions and ensuring fair access.
 
 ## 🚀 **Key Features**  
@@ -61,12 +63,15 @@ contract ModelRegistry {
 }
 ```
 
-## 🌎 **LDocumentation**  
+## 🌎 **Documentation**  
 📄 **Full Thesis (Italian):** [Link to PDF]  
 
 ## 🏆 **Authors**  
 - **Tobias Paparelli** - *Blockchain & Machine Learning Integration*  
-- [tobias.paparelli@gmail.com]  
+- tobias.paparelli@gmail.com  
 
 ## 🛡 **License**  
 📜 MIT License – Feel free to use, modify, and distribute with attribution.  
+
+## 🔗 **Acknowledgment**
+This project was inspired by and partially derived from [Sharing Updatable Models (SUM) on Blockchain](https://github.com/microsoft/0xDeCA10B), originally named "Decentralized & Collaborative AI on Blockchain." Several concepts, architectural insights, and approaches were adapted from that repository to form the foundation of this work. Many thanks to the original authors for their contributions to the field of decentralized AI and blockchain-based model sharing.
