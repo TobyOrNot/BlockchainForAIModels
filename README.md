@@ -95,10 +95,3 @@ This project has adopted the [Microsoft Open Source Code of Conduct](https://ope
 For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
 contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
 
-[demo-folder]: demo/
-[simulation-folder]: simulation/
-
-[demo]: https://aka.ms/0xDeCA10B-demo
-[blog1]: https://aka.ms/0xDeCA10B-blog1
-[overview-paper]: https://aka.ms/0xDeCA10B-paper
-[self-assessment-analysis-paper]: https://arxiv.org/abs/2009.06756
