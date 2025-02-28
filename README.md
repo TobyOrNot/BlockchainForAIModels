@@ -61,13 +61,12 @@ contract ModelRegistry {
 }
 ```
 
-## 🌎 **Live Demo & Documentation**  
-🔗 **Live DApp:** *[Coming Soon]*  
+## 🌎 **LDocumentation**  
 📄 **Full Thesis (Italian):** [Link to PDF]  
 
 ## 🏆 **Authors**  
 - **Tobias Paparelli** - *Blockchain & Machine Learning Integration*  
-- [Your Contact Info or LinkedIn]  
+- [tobias.paparelli@gmail.com]  
 
 ## 🛡 **License**  
 📜 MIT License – Feel free to use, modify, and distribute with attribution.  
